@@ -1,0 +1,15 @@
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\bin\Debug\net6.0\Simple_Algorithms.exe
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\bin\Debug\net6.0\Simple_Algorithms.deps.json
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\bin\Debug\net6.0\Simple_Algorithms.runtimeconfig.json
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\bin\Debug\net6.0\Simple_Algorithms.dll
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\bin\Debug\net6.0\Simple_Algorithms.pdb
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\obj\Debug\net6.0\Simple_Algorithms.csproj.AssemblyReference.cache
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\obj\Debug\net6.0\Simple_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\obj\Debug\net6.0\Simple_Algorithms.AssemblyInfoInputs.cache
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\obj\Debug\net6.0\Simple_Algorithms.AssemblyInfo.cs
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\obj\Debug\net6.0\Simple_Algorithms.csproj.CoreCompileInputs.cache
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\obj\Debug\net6.0\Simple_Algorithms.dll
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\obj\Debug\net6.0\refint\Simple_Algorithms.dll
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\obj\Debug\net6.0\Simple_Algorithms.pdb
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\obj\Debug\net6.0\Simple_Algorithms.genruntimeconfig.cache
+D:\GeekBrains\CSharp\lesson1\Simple_Algorithms\obj\Debug\net6.0\ref\Simple_Algorithms.dll
