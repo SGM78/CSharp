@@ -154,3 +154,4 @@ Console.WriteLine($"Привет {name}");    // выводим имя на ко
 
         return result;
     }
+
